@@ -3,7 +3,7 @@ package application.view.controller;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-import service.provider.rsp.RSPMessagingService;
+import service.messagingservice.MessagingService;
 import service.utility.Time;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 public class ConfigureController implements Initializable{
 
-	RSPMessagingService service=RSPMessagingService.getInstance();
+	MessagingService service=MessagingService.getInstance();
 
 	@FXML
 	Button okButton;
