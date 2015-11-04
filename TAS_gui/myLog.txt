@@ -1,0 +1,340 @@
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:25 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.02 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.021 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.006 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:26 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.004 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.004 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.001 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.002 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:28 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.003 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.003 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.001 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:29 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.002 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.001 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.001 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:30 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.004 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.004 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.001 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.002 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.002 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:31 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.003 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.001 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:32 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.005 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.005 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.001 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.002 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:33 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.004 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.004 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.001 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.001 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:34 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.005 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.005 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.001 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.002 seconds.
+
+Result: 6.0 (value in the initial state)
+PRISM-games
+===========
+
+Version: beta
+Date: Wed Nov 04 16:21:35 GMT 2015
+Hostname: Azlan-PC
+
+Building model...
+
+Computing reachable states...
+ 11 states
+Reachable states exploration and model construction done in 0.004 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.004 seconds.
+Building reward structure...
+Computing rewards...
+Starting expected reachability...
+Starting Prob1 (maxmin)...
+Prob1 (maxmin) took 5 iterations and 0.0 seconds.
+target=3, inf=0, rest=8
+Computing the upper bound where 0.11 is used instead of 0.0
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.0 seconds.
+Computed an over-approximation of the solution (in 0 seconds), this will now be used to get the solution
+Starting value iteration (minmax)...
+Value iteration (minmax) took 5 iterations and 0.001 seconds.
+Expected reachability took 0.001 seconds.
+
+Value in the initial state: 6.0
+
+Time for model checking: 0.002 seconds.
+
+Result: 6.0 (value in the initial state)
