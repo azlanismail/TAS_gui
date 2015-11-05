@@ -1,0 +1,105 @@
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:20:18 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.051 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.054 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:20:21 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.003 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:24:30 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.003 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:24:33 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.003 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.004 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:24:35 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.003 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:24:39 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.002 seconds.
+PRISM-games
+===========
+
+Version: beta
+Date: Thu Nov 05 13:24:40 GMT 2015
+Hostname: CLPC27
+
+Building model...
+
+Computing reachable states...
+ 8 states
+Reachable states exploration and model construction done in 0.002 secs.
+Sorting reachable states list...
+
+Time for model construction: 0.002 seconds.
