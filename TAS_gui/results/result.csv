@@ -1,186 +1,186 @@
-1,MedicalService5,true,11.9,1.446993868634E12,4.0
-1,DrugService,true,5.0,1.446993868648E12,5.0
-1,AssistanceService,true,16.9
+1,MedicalService5,true,11.9,1.447099833479E12,18.0
+1,AlarmService2,true,12.0,1.447099833509E12,7.0
+1,AssistanceService,true,23.9
 
-2,MedicalService5,true,11.9,1.446993868672E12,4.0
-2,DrugService,true,5.0,1.446993868676E12,4.0
+2,MedicalService5,true,11.9,1.447099833529E12,6.0
+2,DrugService,true,5.0,1.447099833544E12,8.0
 2,AssistanceService,true,16.9
 
-3,AlarmService2,true,12.0,1.446993868693E12,4.0
-3,AssistanceService,true,12.0
+3,MedicalService5,true,11.9,1.447099833565E12,8.0
+3,DrugService,true,5.0,1.447099833573E12,8.0
+3,AssistanceService,true,16.9
 
-4,AlarmService2,true,12.0,1.446993868703E12,3.0
-4,AssistanceService,true,12.0
+4,MedicalService5,true,11.9,1.447099833593E12,8.0
+4,DrugService,true,5.0,1.447099833613E12,7.0
+4,AssistanceService,true,16.9
 
-5,MedicalService5,true,11.9,1.446993868713E12,4.0
-5,DrugService,true,5.0,1.446993868723E12,4.0
-5,AssistanceService,true,16.9
+5,MedicalService5,true,11.9,1.447099833633E12,7.0
+5,AlarmService2,true,12.0,1.44709983364E12,8.0
+5,AssistanceService,true,23.9
 
-6,MedicalService5,true,11.9,1.446993868734E12,4.0
-6,AlarmService2,true,12.0,1.446993868738E12,3.0
-6,AssistanceService,true,23.9
+6,MedicalService5,true,11.9,1.447099833685E12,12.0
+6,DrugService,true,5.0,1.447099833697E12,6.0
+6,AssistanceService,true,16.9
 
-7,MedicalService5,true,11.9,1.446993868747E12,4.0
-7,AlarmService2,true,12.0,1.446993868751E12,4.0
-7,AssistanceService,true,23.9
+7,MedicalService5,true,11.9,1.447099833713E12,6.0
+7,DrugService,true,5.0,1.447099833719E12,5.0
+7,AssistanceService,true,16.9
 
-8,MedicalService5,true,11.9,1.44699386876E12,4.0
-8,DrugService,true,5.0,1.446993868764E12,4.0
-8,AssistanceService,true,16.9
+8,AlarmService2,true,12.0,1.447099833732E12,5.0
+8,AssistanceService,true,12.0
 
-9,MedicalService5,true,11.9,1.446993868774E12,5.0
-9,DrugService,true,5.0,1.446993868779E12,3.0
-9,AssistanceService,true,16.9
+9,MedicalService5,false
+9,AssistanceService,false,0.0
 
-10,MedicalService5,true,11.9,1.446993868788E12,6.0
-10,DrugService,true,5.0,1.446993868794E12,5.0
+10,MedicalService5,true,11.9,1.447099834773E12,6.0
+10,DrugService,true,5.0,1.447099834787E12,6.0
 10,AssistanceService,true,16.9
 
-11,MedicalService5,true,11.9,1.446993868807E12,4.0
-11,AlarmService2,true,12.0,1.446993868811E12,3.0
-11,AssistanceService,true,23.9
+11,AlarmService2,true,12.0,1.447099834817E12,5.0
+11,AssistanceService,true,12.0
 
-12,AlarmService2,true,12.0,1.44699386882E12,13.0
-12,AssistanceService,true,12.0
+12,MedicalService5,true,11.9,1.447099834833E12,5.0
+12,DrugService,true,5.0,1.447099834838E12,5.0
+12,AssistanceService,true,16.9
 
-13,AlarmService2,true,12.0,1.446993868838E12,3.0
-13,AssistanceService,true,12.0
+13,MedicalService5,true,11.9,1.447099834855E12,7.0
+13,DrugService,true,5.0,1.447099834862E12,5.0
+13,AssistanceService,true,16.9
 
-14,MedicalService5,true,11.9,1.446993868847E12,3.0
-14,AlarmService2,true,12.0,1.44699386885E12,5.0
-14,AssistanceService,true,23.9
+14,AlarmService2,true,12.0,1.447099834875E12,5.0
+14,AssistanceService,true,12.0
 
-15,MedicalService5,true,11.9,1.44699386886E12,4.0
-15,DrugService,true,5.0,1.446993868864E12,4.0
-15,AssistanceService,true,16.9
+15,MedicalService5,true,11.9,1.447099834888E12,5.0
+15,AlarmService2,true,12.0,1.447099834893E12,5.0
+15,AssistanceService,true,23.9
 
-16,MedicalService5,true,11.9,1.446993868873E12,5.0
-16,DrugService,true,5.0,1.446993868878E12,3.0
-16,AssistanceService,true,16.9
+16,MedicalService5,true,11.9,1.447099834906E12,4.0
+16,AlarmService2,true,12.0,1.447099834911E12,4.0
+16,AssistanceService,true,23.9
 
-17,MedicalService5,true,11.9,1.446993868887E12,4.0
-17,AlarmService2,true,12.0,1.446993868891E12,4.0
-17,AssistanceService,true,23.9
+17,MedicalService5,true,11.9,1.447099834923E12,7.0
+17,DrugService,true,5.0,1.447099834943E12,8.0
+17,AssistanceService,true,16.9
 
-18,AlarmService2,true,12.0,1.4469938689E12,4.0
+18,AlarmService2,true,12.0,1.447099834962E12,5.0
 18,AssistanceService,true,12.0
 
-19,AlarmService2,true,12.0,1.44699386891E12,4.0
-19,AssistanceService,true,12.0
+19,MedicalService5,true,11.9,1.447099834975E12,7.0
+19,AlarmService2,true,12.0,1.447099834982E12,6.0
+19,AssistanceService,true,23.9
 
-20,MedicalService5,true,11.9,1.446993868919E12,4.0
-20,DrugService,true,5.0,1.446993868924E12,3.0
-20,AssistanceService,true,16.9
+20,MedicalService5,true,11.9,1.447099835E12,7.0
+20,AlarmService2,true,12.0,1.447099835007E12,6.0
+20,AssistanceService,true,23.9
 
-21,MedicalService5,true,11.9,1.446993868933E12,3.0
-21,DrugService,true,5.0,1.446993868936E12,5.0
-21,AssistanceService,true,16.9
+21,MedicalService5,true,11.9,1.447099835024E12,10.0
+21,AlarmService2,true,12.0,1.447099835035E12,6.0
+21,AssistanceService,true,23.9
 
-22,AlarmService2,true,12.0,1.446993868946E12,3.0
-22,AssistanceService,true,12.0
+22,MedicalService5,true,11.9,1.44709983505E12,6.0
+22,DrugService,true,5.0,1.447099835056E12,7.0
+22,AssistanceService,true,16.9
 
-23,MedicalService5,true,11.9,1.446993868955E12,4.0
-23,AlarmService2,true,12.0,1.446993868959E12,4.0
-23,AssistanceService,true,23.9
+23,AlarmService2,true,12.0,1.447099835072E12,7.0
+23,AssistanceService,true,12.0
 
-24,AlarmService2,true,12.0,1.446993868968E12,3.0
-24,AssistanceService,true,12.0
+24,MedicalService5,true,11.9,1.447099835095E12,6.0
+24,DrugService,true,5.0,1.447099835101E12,7.0
+24,AssistanceService,true,16.9
 
-25,MedicalService5,true,11.9,1.446993868981E12,4.0
-25,DrugService,true,5.0,1.446993868985E12,4.0
+25,MedicalService5,true,11.9,1.447099835117E12,9.0
+25,DrugService,true,5.0,1.447099835126E12,6.0
 25,AssistanceService,true,16.9
 
-26,MedicalService5,true,11.9,1.446993868995E12,3.0
-26,AlarmService2,true,12.0,1.446993868998E12,4.0
+26,MedicalService5,true,11.9,1.447099835141E12,7.0
+26,AlarmService2,true,12.0,1.447099835148E12,7.0
 26,AssistanceService,true,23.9
 
-27,MedicalService5,true,11.9,1.446993869008E12,4.0
-27,DrugService,true,5.0,1.446993869012E12,3.0
-27,AssistanceService,true,16.9
+27,MedicalService5,false
+27,AssistanceService,false,0.0
 
-28,MedicalService5,true,11.9,1.446993869021E12,5.0
-28,DrugService,true,5.0,1.446993869026E12,4.0
-28,AssistanceService,true,16.9
+28,AlarmService2,true,12.0,1.447099836181E12,6.0
+28,AssistanceService,true,12.0
 
-29,AlarmService2,true,12.0,1.446993869038E12,8.0
-29,AssistanceService,true,12.0
+29,MedicalService5,true,11.9,1.447099836207E12,8.0
+29,AlarmService2,true,12.0,1.447099836215E12,4.0
+29,AssistanceService,true,23.9
 
-30,MedicalService5,true,11.9,1.446993869055E12,5.0
-30,DrugService,true,5.0,1.44699386906E12,10.0
-30,AssistanceService,true,16.9
+30,AlarmService2,true,12.0,1.447099836228E12,5.0
+30,AssistanceService,true,12.0
 
-31,MedicalService5,true,11.9,1.446993869081E12,4.0
-31,DrugService,true,5.0,1.446993869085E12,4.0
-31,AssistanceService,true,16.9
+31,MedicalService5,true,11.9,1.44709983624E12,6.0
+31,AlarmService2,true,12.0,1.447099836246E12,5.0
+31,AssistanceService,true,23.9
 
-32,MedicalService5,true,11.9,1.446993869095E12,4.0
-32,DrugService,true,5.0,1.446993869099E12,4.0
+32,MedicalService5,true,11.9,1.447099836257E12,4.0
+32,DrugService,true,5.0,1.447099836267E12,5.0
 32,AssistanceService,true,16.9
 
-33,MedicalService5,true,11.9,1.446993869108E12,4.0
-33,DrugService,true,5.0,1.446993869112E12,5.0
+33,MedicalService5,true,11.9,1.447099836278E12,5.0
+33,DrugService,true,5.0,1.447099836289E12,5.0
 33,AssistanceService,true,16.9
 
-34,MedicalService5,true,11.9,1.446993869122E12,4.0
-34,DrugService,true,5.0,1.446993869126E12,4.0
+34,MedicalService5,true,11.9,1.4470998363E12,4.0
+34,DrugService,true,5.0,1.447099836304E12,4.0
 34,AssistanceService,true,16.9
 
-35,MedicalService5,true,11.9,1.446993869135E12,8.0
-35,AlarmService2,true,12.0,1.446993869143E12,5.0
+35,MedicalService5,true,11.9,1.447099836317E12,5.0
+35,AlarmService2,true,12.0,1.447099836322E12,5.0
 35,AssistanceService,true,23.9
 
-36,MedicalService5,true,11.9,1.446993869153E12,3.0
-36,DrugService,true,5.0,1.446993869156E12,4.0
+36,MedicalService5,true,11.9,1.447099836333E12,4.0
+36,DrugService,true,5.0,1.447099836337E12,6.0
 36,AssistanceService,true,16.9
 
-37,MedicalService5,true,11.9,1.446993869165E12,5.0
-37,DrugService,true,5.0,1.44699386917E12,4.0
+37,MedicalService5,true,11.9,1.447099836354E12,9.0
+37,DrugService,true,5.0,1.447099836363E12,14.0
 37,AssistanceService,true,16.9
 
-38,MedicalService5,true,11.9,1.446993869179E12,7.0
-38,DrugService,true,5.0,1.446993869187E12,5.0
-38,AssistanceService,true,16.9
+38,MedicalService5,true,11.9,1.447099836385E12,5.0
+38,AlarmService2,true,12.0,1.447099836391E12,4.0
+38,AssistanceService,true,23.9
 
-39,MedicalService5,true,11.9,1.446993869201E12,4.0
-39,DrugService,true,5.0,1.446993869205E12,5.0
-39,AssistanceService,true,16.9
+39,AlarmService2,true,12.0,1.447099836402E12,5.0
+39,AssistanceService,true,12.0
 
-40,MedicalService5,true,11.9,1.446993869218E12,4.0
-40,DrugService,true,5.0,1.446993869222E12,4.0
+40,MedicalService5,true,11.9,1.447099836415E12,6.0
+40,DrugService,true,5.0,1.447099836421E12,10.0
 40,AssistanceService,true,16.9
 
-41,MedicalService5,true,11.9,1.446993869231E12,4.0
-41,DrugService,true,5.0,1.446993869235E12,5.0
+41,MedicalService5,true,11.9,1.447099836442E12,8.0
+41,DrugService,true,5.0,1.44709983645E12,5.0
 41,AssistanceService,true,16.9
 
-42,AlarmService2,true,12.0,1.446993869246E12,3.0
-42,AssistanceService,true,12.0
+42,MedicalService5,true,11.9,1.447099836463E12,5.0
+42,DrugService,true,5.0,1.447099836468E12,4.0
+42,AssistanceService,true,16.9
 
-43,MedicalService5,true,11.9,1.446993869255E12,3.0
-43,DrugService,true,5.0,1.446993869258E12,4.0
+43,MedicalService5,true,11.9,1.44709983648E12,5.0
+43,DrugService,true,5.0,1.447099836485E12,5.0
 43,AssistanceService,true,16.9
 
-44,MedicalService5,true,11.9,1.446993869267E12,4.0
-44,DrugService,true,5.0,1.446993869271E12,4.0
-44,AssistanceService,true,16.9
+44,MedicalService5,true,11.9,1.447099836499E12,6.0
+44,AlarmService2,true,12.0,1.447099836505E12,6.0
+44,AssistanceService,true,23.9
 
-45,AlarmService2,true,12.0,1.44699386928E12,4.0
-45,AssistanceService,true,12.0
+45,MedicalService5,false
+45,AssistanceService,false,0.0
 
-46,MedicalService5,false
-46,AssistanceService,false,0.0
+46,AlarmService2,true,12.0,1.447099837532E12,8.0
+46,AssistanceService,true,12.0
 
-47,AlarmService2,true,12.0,1.446993870319E12,7.0
+47,AlarmService2,true,12.0,1.44709983755E12,4.0
 47,AssistanceService,true,12.0
 
-48,MedicalService5,true,11.9,1.446993870334E12,4.0
-48,DrugService,true,5.0,1.446993870338E12,4.0
+48,MedicalService5,true,11.9,1.447099837569E12,5.0
+48,DrugService,true,5.0,1.44709983758E12,3.0
 48,AssistanceService,true,16.9
 
-49,AlarmService2,false
+49,MedicalService5,false
 49,AssistanceService,false,0.0
 
-50,MedicalService5,true,11.9,1.446993871379E12,8.0
-50,AlarmService2,true,12.0,1.446993871387E12,6.0
-50,AssistanceService,true,23.9
+50,MedicalService5,true,11.9,1.447099838608E12,5.0
+50,DrugService,true,5.0,1.447099838618E12,4.0
+50,AssistanceService,true,16.9
 
