@@ -376,6 +376,7 @@ public class ApplicationController implements Initializable {
     }
 
     public void setProbe(AssistanceServiceCostProbe probe) {
+    System.out.println("Probe is set from Application controller");
 	this.probe = probe;
     }
 
@@ -395,8 +396,10 @@ public class ApplicationController implements Initializable {
 	    ToggleButton button=new ToggleButton(key);
 	    button.setToggleGroup(group);
 	    button.setUserData(key);
+	    System.out.println("key is....."+key);
 	    if(selected){
 		button.setSelected(true);
+		System.out.println("Button clicked is "+button.getUserData());
 		selected=false;
 	    }
 	    
