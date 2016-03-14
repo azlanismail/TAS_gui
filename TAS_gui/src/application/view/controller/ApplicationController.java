@@ -100,7 +100,7 @@ public class ApplicationController implements Initializable {
     String resultFilePath = "results" + File.separator + "result.csv";
     String logFilePath="results" + File.separator + "log.csv";
 
-    ScheduledExecutorService scheduExec = Executors.newScheduledThreadPool(5);
+    ScheduledExecutorService scheduExec = Executors.newScheduledThreadPool(0);
 
     CompositeService compositeService;
     AssistanceServiceCostProbe probe;
